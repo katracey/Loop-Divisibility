@@ -1,0 +1,9 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150915_Ch6Loops_NotDivisbleby3and7\150915_Ch6Loops_NotDivisbleby3and7\bin\Debug\150915_Ch6Loops_NotDivisbleby3and7.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150915_Ch6Loops_NotDivisbleby3and7\150915_Ch6Loops_NotDivisbleby3and7\bin\Debug\150915_Ch6Loops_NotDivisbleby3and7.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150915_Ch6Loops_NotDivisbleby3and7\150915_Ch6Loops_NotDivisbleby3and7\bin\Debug\150915_Ch6Loops_NotDivisbleby3and7.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150915_Ch6Loops_NotDivisbleby3and7\150915_Ch6Loops_NotDivisbleby3and7\obj\Debug\150915_Ch6Loops_NotDivisbleby3and7.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150915_Ch6Loops_NotDivisbleby3and7\150915_Ch6Loops_NotDivisbleby3and7\obj\Debug\150915_Ch6Loops_NotDivisbleby3and7.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150915_Ch6Loops_NotDivisbleby3and7\150915_Ch6Loops_NotDivisbleby3and7\obj\Debug\150915_Ch6Loops_NotDivisbleby3and7.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150915_Ch6Loops_NotDivisbleby3and7\150915_Ch6Loops_NotDivisbleby3and7\bin\Debug\150915_Ch6Loops_NotDivisbleby3and7.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150915_Ch6Loops_NotDivisbleby3and7\150915_Ch6Loops_NotDivisbleby3and7\obj\Debug\150915_Ch6Loops_NotDivisbleby3and7.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150915_Ch6Loops_NotDivisbleby3and7\150915_Ch6Loops_NotDivisbleby3and7\obj\Debug\150915_Ch6Loops_NotDivisbleby3and7.pdb
